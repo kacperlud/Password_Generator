@@ -1,2 +1,2 @@
-# Password_Generator
+# Password Generator
 Generate secure password from linux terminal.
